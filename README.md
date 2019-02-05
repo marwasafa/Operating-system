@@ -7,4 +7,5 @@ the current directory. If the directory does not exist an appropriate
 error should be reported. This command should also change the PWD
 environment variable.  
   
-## clr - Clear the screen.
+## ii. clr - Clear the screen.
+## iii. dir <directory> - List the contents of directory <directory>. 
